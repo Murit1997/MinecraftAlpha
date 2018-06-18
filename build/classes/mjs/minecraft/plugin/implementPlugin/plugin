@@ -1,0 +1,11 @@
+name: MHello 
+main: mjs.minecraft.plugin.implementPlugin
+version: 0.1 
+author: Marlon J. Manrique 
+website: http://www.marlonj.com 
+description: Example command to say hello to the user 
+
+commands: 
+hello: 
+description: Say hello to the user. 
+usage: /<command> 
